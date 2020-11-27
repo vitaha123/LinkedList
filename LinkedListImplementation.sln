@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListImplementation", "LinkedListImplementation\LinkedListImplementation.csproj", "{9E22B00D-A9E1-46A4-937A-5C97664F838F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{1736242A-2BEA-427F-8566-FD5F9EF3BFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E22B00D-A9E1-46A4-937A-5C97664F838F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E22B00D-A9E1-46A4-937A-5C97664F838F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E22B00D-A9E1-46A4-937A-5C97664F838F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E22B00D-A9E1-46A4-937A-5C97664F838F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1736242A-2BEA-427F-8566-FD5F9EF3BFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1736242A-2BEA-427F-8566-FD5F9EF3BFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1736242A-2BEA-427F-8566-FD5F9EF3BFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1736242A-2BEA-427F-8566-FD5F9EF3BFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
